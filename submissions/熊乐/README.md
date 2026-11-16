@@ -7,7 +7,7 @@
 | 虚拟化方式 | VMware Workstation 17.6.4 虚拟机（非 Docker） |
 | Ubuntu 版本 | Ubuntu 22.04.5 LTS（Desktop，64 位） |
 | Agent 工具 | DeepSeek Harness（deepseek-flash） |
-| 提交日期 | 2026-11-17 |
+| 提交日期 | 2026-11-16 |
 
 ## 心得（约 200 字）
 
