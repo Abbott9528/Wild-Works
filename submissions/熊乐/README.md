@@ -7,7 +7,7 @@
 | 虚拟化方式 | VMware Workstation 17.6.4 虚拟机（非 Docker） |
 | Ubuntu 版本 | Ubuntu 22.04.5 LTS（Desktop，64 位） |
 | Agent 工具 | DeepSeek Harness（deepseek-flash） |
-| 提交日期 | 2026-11-16 |
+| 提交日期 | 2026-11-17 |
 
 ## 心得（约 200 字）
 
@@ -27,7 +27,7 @@
 | `04_文本查看.png` | `cat`、`head -n`、`tail -n`、`less`（按 q 退出） |
 | `05_Agent过程.png` | Agent 检查环境、规划步骤、讲解命令的界面 |
 
-## 环境信息
+## 环境信息（自查用）
 
 - 练习目录：`~/lesson2`
 - 确认版本：`cat /etc/os-release` → `VERSION_ID="22.04"`
